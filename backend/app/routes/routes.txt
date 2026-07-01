@@ -1,0 +1,6 @@
+API endpoints 
+
+POST /auth/register (When user creates an account)
+POST /auth/login (When user logs in)
+GET /journals (Retrieve journals)
+POST /journals (Adding a journal)
